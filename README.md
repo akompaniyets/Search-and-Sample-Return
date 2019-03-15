@@ -3,4 +3,6 @@
 #### Term 1 ####
 #### Project 1 ####
 
-##### _Concepts/Skills Learned:_ #####
+__Concepts/Skills Learned:__ 
+
+
