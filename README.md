@@ -3,7 +3,14 @@
 #### Term 1 ####
 #### Project 1 ####
 
-__Concepts/Skills Learned:__
+_Concepts/Skills Learned:_
+  * Jupyter notebook
+  * Python: matplotlib, numpy, OpenCV
+  * Anaconda
+  * Linux command line
+  * Git and Github
+
+_Project Description:_
 
 
 
