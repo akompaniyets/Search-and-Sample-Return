@@ -3,7 +3,7 @@
 #### Term 1 ####
 #### Project 1 ####
 
-*Concepts/Skills Learned:*
+__Concepts/Skills Learned:__
 
 
 
